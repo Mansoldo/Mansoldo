@@ -1,4 +1,8 @@
-### Hi there 👋
+## Hi there 👋
+
+I work with IT almost 12 years, specially with analyze in system through PL/SQL or T-SQL. In the two last years, I've been working on technologies of BI/DS like Python, R, SQL and PowerBI. 
+Besides that, I also likes to program in Java and JS.
+
 <!--
 **Mansoldo/Mansoldo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +17,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔭 I’m currently working on ...
+
