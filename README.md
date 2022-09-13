@@ -3,7 +3,7 @@
 I work with IT almost 12 years, specially with analyze in system through PL/SQL or T-SQL. In the two last years, I've been working on technologies of BI/DS like Python, R, SQL and PowerBI. 
 Besides that, I also likes to program in Java and JS.
 
-- :computer: I'm currently working on MC1 - Win the Market as Configuration Analyst
+- :computer: I'm currently working on Bionexo as BI Analyst
 - :chart_with_upwards_trend: There are a lot of things that I'm learning, but the primary are PowerBI, PLSQL (Procedures/Packages/Functions), R and Python.
 - :email: How to reach me: dmansoldo@gmail.com or https://www.linkedin.com/in/diegomansoldo/
 
